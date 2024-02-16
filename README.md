@@ -7,7 +7,7 @@ Why do average-level players lose so many Queen's Gambit Accepted games as black
 
 That win rate difference peaks at \~1500 Elo and reduce to 2% at 2500+ Elo. It also reduce to 14% at 200~400 Elo on Lichess.
 
-This phenomenon also seems to happen to other openings and variants, but far less severely like QGA.
+This phenomenon also seems to happen to other openings and variants, but far less severely like QGA. Generally, win rates for sides will still change up to 4% as players' level change.
 
 This project is to investigate them and find some common description for the 'unbalancedness for weaker players'. 
 
