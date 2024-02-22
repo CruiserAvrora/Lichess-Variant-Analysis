@@ -12,3 +12,6 @@ This phenomenon seems to happen to other openings and variants as well, but far 
 This project is to investigate them and find some common description for the 'unbalancedness for weaker players'. 
 
 Welcome to play on Lichess, Lichess variants and Pychess to contribute to the database!
+
+
+# Github is really terribly difficultto use...
